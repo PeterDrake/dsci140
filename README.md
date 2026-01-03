@@ -18,7 +18,7 @@ Lerner, [*Pandas Workout*](https://www.manning.com/books/pandas-workout) (with [
 [Course Policies](https://github.com/PeterDrake/drakepedia/blob/master/administrivia/policies.md)  
 [Class Notes]()  
 [In-Class Code]()  
-[Pythonorama](https://github.com/alainkaegi/pythonorama/blob/main/README.md)
+[Pythonorama](https://github.com/alainkaegi/pythonorama/blob/main/README.md)  
 
 ## Overview
 Data science is the study of extracting knowledge from data, enabling us to better understand and make decisions about our world. It lies at the intersection of computer science, statistics, and expertise in some particular domain. This course will empower you with the foundational skills necessary to solve problems with data.
@@ -66,7 +66,48 @@ There are no exams. In place of a final exam, teams will present their final pro
 
 ## Schedule
 
-Flex days are days for you to work on assignments in class. They also serve as a reserve in case of getting behind,
-instructor illness, inclement weather, etc.
+Flex days are days for you to work on assignments in class. They also serve as a reserve in case of getting behind, instructor illness, inclement weather, etc.
 
-TBA
+| Day | Date   | Lesson                                  |
+|-----|--------|-----------------------------------------|
+| Wed | Jan 21 | Extracting knowledge from data          |
+| Fri | Jan 23 | Syllabus, spreadsheets                  |
+| Mon | Jan 26 | Formulas                                |
+| Wed | Jan 28 | Flex                                    |
+| Fri | Jan 30 | Basic visualization                     |
+| Mon | Feb 2  | Sorting, filtering, and pivot tables    |
+| Wed | Feb 4  | Measurement                             |
+| Fri | Feb 6  | Sampling and bias                       |
+| Mon | Feb 9  | Cleaning data                           |
+| Wed | Feb 11 | Flex                                    |
+| Fri | Feb 13 | Descriptive statistics                  |
+| Mon | Feb 16 | Correlation and causality               |
+| Wed | Feb 18 | Python syntax                           |
+| Fri | Feb 20 | Data types                              |
+| Mon | Feb 23 | Variables                               |
+| Wed | Feb 25 | Calling functions and methods           |
+| Fri | Feb 27 | Iteration                               |
+| Mon | Mar 2  | If/else                                 |
+| Wed | Mar 4  | Flex                                    |
+| Fri | Mar 6  | Dictionaries and sets                   |
+| Mon | Mar 9  | Defining and testing functions          |
+| Wed | Mar 11 | Working with files                      |
+| Fri | Mar 13 | NumPy                                   |
+| Mon | Mar 16 | Series                                  |
+| Wed | Mar 18 | Data frames                             |
+| Fri | Mar 20 | Importing and exporting data            |
+| Mon | Mar 20 | Flex                                    |
+| Wed | Apr 1  | Indexes                                 |
+| Fri | Apr 3  | Cleaning data                           |
+| Mon | Apr 6  | Basic grouping, joining, and sorting    |
+| Wed | Apr 8  | Advanced grouping, joining, and sorting |
+| Fri | Apr 10 | Festival of Scholars and Artists        |
+| Mon | Apr 13 | Strings                                 |
+| Wed | Apr 15 | Dates and times                         |
+| Fri | Apr 17 | Advanced visualization                  |
+| Mon | Apr 20 | Performance                             |
+| Wed | Apr 22 | Flex                                    |
+| Fri | Apr 24 | Review                                  |
+| Mon | Apr 27 | Flex                                    |
+| Wed | Apr 29 | Flex                                    |
+| Fri | May 6  | Final presentations, 1-4 PM             |
