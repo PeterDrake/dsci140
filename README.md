@@ -60,7 +60,7 @@ There are three major sections to the course:
 
 The major components of the course are:
 * Individual assignments that you are meant to complete on your own. You are welcome to help each other with *concepts*, but any code, writing, math, etc. should be your own.
-* Team projects that you complete with a team of 3-4 students.
+* A team project that you complete with a team of 3-4 students.
 
 There are no exams. In place of a final exam, teams will present their final projects.
 
