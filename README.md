@@ -14,6 +14,12 @@ Spring 2026
 ## Course Text
 Lerner, [*Pandas Workout*](https://www.manning.com/books/pandas-workout) (with [associated GitHub repository](https://github.com/reuven/pandas-workout))
 
+### Suggested Texts
+No readings will be assigned from these, but go deeper or read a different take on something, they're good sources.
+* Downey, [*Think Python: How to Think LIke a Computer Scientist, Third Edition*](https://allendowney.github.io/ThinkPython/index.html)
+* Lubanovic, [*Introducing Python: Modern Computing in Simple Packages, Third Edition*](https://www.oreilly.com/library/view/introducing-python-3rd/9781098174392/)
+* VanderPlas, [*Python Data Science Handbook, Second Edition*](https://www.oreilly.com/library/view/python-data-science/9781098121211/)
+
 ## Links
 [Course Policies](https://github.com/PeterDrake/drakepedia/blob/master/administrivia/policies.md)  
 [Class Notes]()  
