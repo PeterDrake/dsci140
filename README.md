@@ -15,7 +15,7 @@ Spring 2026
 Lerner, [*Pandas Workout*](https://www.manning.com/books/pandas-workout) (with [associated GitHub repository](https://github.com/reuven/pandas-workout))
 
 ### Suggested Texts
-No readings will be assigned from these, but go deeper or read a different take on something, they're good sources.
+No readings will be assigned from these, but if you want to go deeper or read a different take on something, they're good sources.
 * Downey, [*Think Python: How to Think LIke a Computer Scientist, Third Edition*](https://allendowney.github.io/ThinkPython/index.html)
 * Lubanovic, [*Introducing Python: Modern Computing in Simple Packages, Third Edition*](https://www.oreilly.com/library/view/introducing-python-3rd/9781098174392/)
 * VanderPlas, [*Python Data Science Handbook, Second Edition*](https://www.oreilly.com/library/view/python-data-science/9781098121211/)
@@ -90,8 +90,8 @@ Flex days are days for you to work on assignments in class. They also serve as a
 | Fri | Feb 13 | Descriptive statistics                  |
 | Mon | Feb 16 | Correlation and causality               |
 | Wed | Feb 18 | Python syntax                           |
-| Fri | Feb 20 | Data types                              |
-| Mon | Feb 23 | Variables                               |
+| Fri | Feb 20 | Data types and variables                |
+| Mon | Feb 23 | Intermediate visualization              |
 | Wed | Feb 25 | Calling functions and methods           |
 | Fri | Feb 27 | Iteration                               |
 | Mon | Mar 2  | If/else                                 |
