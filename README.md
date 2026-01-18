@@ -9,7 +9,7 @@ Spring 2026
 ## Getting Help
 * Write to the [course email list](mailto:26sp-dsci-140-02@lclark.edu) 24/7
 * Come to the TA's lab hours, TBA
-* [Make an appointment to see me]() or drop by my office
+* [Make an appointment to see me](https://calendar.app.google/LftGtzJnJeX8r1fw5) or drop by my office
 
 ## Course Text
 Lerner, [*Pandas Workout*](https://www.manning.com/books/pandas-workout) (with [associated GitHub repository](https://github.com/reuven/pandas-workout))
@@ -22,8 +22,8 @@ No readings will be assigned from these, but if you want to go deeper or read a 
 
 ## Links
 [Course Policies](https://github.com/PeterDrake/drakepedia/blob/master/administrivia/policies.md)  
-[Class Notes]()  
-[In-Class Code]()  
+[Class Notes](lessons)  
+In-Class Code  
 [Data Visualization of the Day](https://docs.google.com/spreadsheets/d/1p2-fpUBZIibmX1B2oVjbhNphAbS8yN8DgkkGeKJ2riU/edit?usp=sharing)
 [Pythonorama](https://github.com/alainkaegi/pythonorama/blob/main/README.md)  
 
