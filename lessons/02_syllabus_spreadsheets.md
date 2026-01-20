@@ -8,6 +8,7 @@
   * Some you'll absorb today
   * Some you'll just remember the possibility and look it up when you need it
 * Open one and type some random data into a few cells
+  * Trick for quickly autofilling a range by dragging
 * Title and file information
 * Menus (we'll go into much more detail later)
 * Toolbar
@@ -17,6 +18,7 @@
   * Format painter
   * Zoom
   * Data formatting buttons
+    * Reducing the number of decimals after the data points *rounds*
   * Font and size
   * Text formatting
   * Colors
@@ -34,5 +36,5 @@
   * Context menu
     * There are special options for rows and columns
 * Adding sheets
-  * Google calls the whole document a "spreadsheet" and each tab a sheet. Excel calls the whole document a "workbook".
+  * Workbook (spreadsheet) vs sheet (tab)
 * Summary of selected range at lower right
