@@ -20,7 +20,7 @@
   * Copy and paste values
 * `IF`
 * Nesting formulas
-* `VLOOKUP(A2, $B$10:$C$15`, 2, FALSE)
+* `VLOOKUP(A2, $B$10:$C$15, 2, FALSE)`
   * Looks *for* whatever is in A2
   * Looks *in* the first column of the specified range
   * Returns the corresponding value in column 2 (relative, 1-based) within the range
