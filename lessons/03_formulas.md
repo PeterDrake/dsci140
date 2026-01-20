@@ -2,7 +2,7 @@
 * Create a new sheet (or use the one from last time) for simple experiments
 * `=2+2`
   * Note difference between the formula and the value it computes
-  * Arithmetic operators: `+`, `-`, `*`, `\`
+  * Arithmetic operators: `+`, `-`, `*`, `/`
   * Comparison operators: `<`, `<=`, `=`, `>=`, `>`
     * `<>` means "not equal to"
   * Concatenate strings with `&`
