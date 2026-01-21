@@ -8,7 +8,7 @@ Spring 2026
 
 ## Getting Help
 * Write to the [course email list](mailto:26sp-dsci-140-02@lclark.edu) 24/7
-* Come to the TA's lab hours, TBA
+* Come to the TA's office hours, 11:30 AM - 1:00 PM TTh, Data Science Center
 * [Make an appointment to see me](https://calendar.app.google/LftGtzJnJeX8r1fw5) or drop by my office
 
 ## Course Text
