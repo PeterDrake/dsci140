@@ -2,6 +2,7 @@
 * Go over it
 
 # Spreadsheets
+0:15
 * Google Sheets (others include Excel, Numbers, and LibreOffice Calc)
 * Foreshadowing
   * Some of this stuff you'll know
