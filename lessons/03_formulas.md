@@ -15,7 +15,7 @@
 * `COUNT`
   * Challenge: compute average using these two
 * `AVERAGE` and `MAX`
-* `RANDOM`
+* `RAND`
   * It's updated any time you edit anything
   * Copy and paste values
 * `IF`
@@ -27,7 +27,9 @@
   * You always want FALSE
     * TRUE is an "approximate match" and assumes the data are sorted
 * [Google Sheets function cheat sheet](https://docs.google.com/spreadsheets/d/1AqN6OMBf5Gzo7D4LTv9uQtqLHQC1d3BPSnquSLhjWfw/edit?usp=sharing)
+
 ## Interactive Activities
+0:40
 * You can find a Google Sheet or import a xlsx, ods, or csv file
 * Open [Billboard Hot 100 Number Ones Database](https://docs.google.com/spreadsheets/d/1j1AUgtMnjpFTz54UdXgCKZ1i4bNxFjf01ImJ-BqBEt0/edit)
 * Make a copy so you can edit
