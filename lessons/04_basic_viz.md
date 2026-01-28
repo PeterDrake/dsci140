@@ -1,7 +1,8 @@
 # Visualization
 * Makes it easier to get big picture of data, spotting trends and outliers
   * Easier for most people!
-* In Google Sheets, select some data (say, a column of letters with adjacent numbers) and `Insert > Chart`
+* Copy [sample data](https://docs.google.com/spreadsheets/d/16izvqPs7SgRed4MNXve4ryO0IXlVGG9OneXzSGits7I/edit?usp=sharing)
+* Select some data and `Insert > Chart`
 * First, look at a bar chart
   * What are the axes?
   * What are the marks (each corresponding to a data point?)
@@ -36,3 +37,15 @@
     * Largely cosmetic, but note log scale
   * Gridlines and ticks
     * Cosmetic, but can affect readability
+* Practice
+  * Get the [data on bicycles crossing Seattle's Fremont bridge](https://github.com/jakevdp/bicycle-data)
+  * Sort the sheet by date -- surprisingly, it isn't already sorted!
+  * Plot the total number of bicycles for each of the first 1000 times.
+    * What kind of plot should you make?
+    * Do it.
+    * What patterns do you notice?
+    * How do you explain them?
+  * Do the same for the first 50000 times.
+  * Optional challenge: How does the temperature correlate with the number of bicycles?
+    * Describe what plot you would make
+    * Do it
