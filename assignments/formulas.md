@@ -11,6 +11,8 @@ This assignment will give you practice using formulas in a spreadsheet. It deals
 5. Import the data into the sheet (`File > Import`, then find the `Upload` tab). For the import location, choose `Replace current sheet`.
 
 # New Columns
+Note: Some cells in the data say `NA` (not available). For this assignment, we'll just ignore these values. Functions like `SUM` and `AVERAGE` also ignore them. If you write a formula that depends on a specific `NA` value, you'll get `#VALUE!`, which is fine for now. We'll talk about missing data later in the course.
+
 Add the following new columns:
 1. `bill_length_inches`, computed from `bill_length_mm` by dividing that column by 25.4.
 1. `bill_volume_mm^3`, which will represent the approximate volume of the penguin's bill in cubic millimeters. To compute this, we will assume that the bill is a cone. The volume of a cone is $\frac{\pi r^2 h}{3}$. Use `bill_length_mm` for $h$ and half of `bill_depth_mm` for $r$. Use `PI()` for $\pi$.
