@@ -1,7 +1,7 @@
 # Overview
 This assignment will give you practice using formulas in a spreadsheet. It deals with [data about penguins found in the Palmer Archipelago off the coast of Antarctica](https://github.com/allisonhorst/palmerpenguins).
 
-**This is an individual assignment. You are meant to write the code on your own. You are welcome to discuss *ideas* with other students (including on the class email list), but don't look at their code or show them yours.**
+****This is an individual assignment. You are meant to write the code on your own. You are welcome to discuss *ideas* with other students (including on the class email list), but don't look at their code or show them yours.****
 
 # Importing the Data
 1. Start at https://gist.github.com/slopp/ce3b90b9168f2f921784de84fa445651#file-penguins-csv.
