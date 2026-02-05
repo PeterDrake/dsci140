@@ -1,7 +1,7 @@
 # Overview
 This assignment will give you practice using formulas in a spreadsheet. It deals with [data about penguins found in the Palmer Archipelago off the coast of Antarctica](https://github.com/allisonhorst/palmerpenguins).
 
-****This is an individual assignment. You are meant to write the code on your own. You are welcome to discuss *ideas* with other students (including on the class email list), but don't look at their code or show them yours.****
+**This is an individual assignment. You are meant to write the code on your own. You are welcome to discuss *ideas* with other students (including on the class email list), but don't look at their code or show them yours.**
 
 # Importing the Data
 1. Start at https://gist.github.com/slopp/ce3b90b9168f2f921784de84fa445651#file-penguins-csv.
@@ -38,4 +38,4 @@ Don't share your *formulas* with classmates, but feel free to compare your first
 Create a second sheet (in the same workbook) and show the minimum, average, and maximum body mass of the penguins of each species. You may need to research functions we haven't discussed!
 
 # What to Hand in
-Hand in a link to your spreadsheet.
+Hand in a link to your workbook.
