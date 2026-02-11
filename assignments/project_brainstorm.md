@@ -21,4 +21,4 @@ Now, with your team, agree on five topics that you think would be good options t
 # What to Hand in
 ***One member of your team*** should hand in a single document listing your five topics, along with any related explanation. Include the ***full names*** of everyone who worked on it.
 
-Everyone else should turn in an empty assignment on Google Classroom, including a comment about who turned in the document for your team.
+***Everyone else*** should turn in an empty assignment on Google Classroom, including a comment about who turned in the document for your team.
