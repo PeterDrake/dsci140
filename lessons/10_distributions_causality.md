@@ -29,7 +29,7 @@
 * Make scatter plot of x and y columns in "Correlation" tab
 * We say these are *positively correlated* because, when one goes up, the other also goes up
 * Pearson's correlation coefficient ranges from -1 to 1
-  * [Scatter plots](https://en.wikipedia.org/wiki/Correlation#/media/File:Correlation_examples2.svg)
+  * https://en.wikipedia.org/wiki/Correlation#/media/File:Correlation_examples2.svg
   * Note that slope isn't a big factor here (except sign)
   * Closer to +/- 1 means tighter, closer to a line
 * In Google Sheets, use `CORREL`
