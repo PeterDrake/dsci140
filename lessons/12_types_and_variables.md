@@ -26,6 +26,7 @@
     * Yes
     * No
     * It's complicated (only sometimes or something special happens)
+* There are many more types, and it's even possible to define your own
 
 # Variables
 * Define variables with `=`
