@@ -91,8 +91,8 @@ Flex days are days for you to work on assignments in class. They also serve as a
 | Mon | Feb 16 | Distributions, correlation, and causality |
 | Wed | Feb 18 | Python syntax                             |
 | Fri | Feb 20 | Data types and variables                  |
-| Mon | Feb 23 | Intermediate visualization                |
-| Wed | Feb 25 | Calling functions and methods             |
+| Mon | Feb 23 | Calling functions and methods             |
+| Wed | Feb 25 | Intermediate visualization                |
 | Fri | Feb 27 | Iteration                                 |
 | Mon | Mar 2  | If/else                                   |
 | Wed | Mar 4  | Flex                                      |
