@@ -15,6 +15,7 @@
 * `break`
   * Exits the loop
   * Example: get a series of numbers from user, then print their sum
+    * Requires introducing `if`
   * Challenge: get a series of numbers from the user and stop after the first duplicate
     * You will need `in`, which works differently for strings and lists
 * `continue`
@@ -36,9 +37,3 @@
   * Example: all pairs of an element from one list and an element from another
   * Challenge: print a multiplication table
 
-## List Comprehensions
-* Most convenient when you want to perform some operation on each element of a list
-* `[variable for variable in iterable]`
-* Example: doubling the numbers in a list
-* Fancy variant: `[variable for variable in iterable if condition]`
-* Challenge: list of all prefixes of a long string
