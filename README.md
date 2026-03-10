@@ -102,8 +102,8 @@ Flex days are days for you to work on assignments in class. They also serve as a
 | Fri | Mar 13 | NumPy                                     |
 | Mon | Mar 16 | Series                                    |
 | Wed | Mar 18 | Data frames                               |
-| Fri | Mar 20 | Importing and exporting data              |
-| Mon | Mar 20 | Flex                                      |
+| Fri | Mar 20 | Flex                                      |
+| Mon | Mar 30 | Importing and exporting data              |
 | Wed | Apr 1  | Indexes                                   |
 | Fri | Apr 3  | Cleaning data                             |
 | Mon | Apr 6  | Basic grouping, joining, and sorting      |
