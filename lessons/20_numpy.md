@@ -30,6 +30,7 @@
   * `a * 2`
   * `a + a`
     * Other arithmetic operators are similar
+  * Challenge: convert a bunch of Fahrenheit temperatures to Celsius: -40, 0, 32, 100, 212
   * `np.sum(a, axis=0)`
   * `a > 3`
   * `a[a > 3]`
