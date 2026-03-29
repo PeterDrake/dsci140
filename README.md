@@ -104,17 +104,17 @@ Flex days are days for you to work on assignments in class. They also serve as a
 | Wed | Mar 18 | Data frames                               |
 | Fri | Mar 20 | Flex                                      |
 | Mon | Mar 30 | Importing and exporting data              |
-| Wed | Apr 1  | Indexes                                   |
-| Fri | Apr 3  | Cleaning data                             |
-| Mon | Apr 6  | Basic grouping, joining, and sorting      |
-| Wed | Apr 8  | Advanced grouping, joining, and sorting   |
+| Wed | Apr 1  | No class                                  |
+| Fri | Apr 3  | Indexes                                   |
+| Mon | Apr 6  | Cleaning data                             |
+| Wed | Apr 8  | Basic grouping, joining, and sorting      |
 | Fri | Apr 10 | Festival of Scholars and Artists          |
-| Mon | Apr 13 | Strings                                   |
-| Wed | Apr 15 | Dates and times                           |
-| Fri | Apr 17 | Advanced visualization                    |
-| Mon | Apr 20 | Performance                               |
-| Wed | Apr 22 | Flex                                      |
-| Fri | Apr 24 | Review                                    |
-| Mon | Apr 27 | Flex                                      |
+| Mon | Apr 13 | Advanced grouping, joining, and sorting   |
+| Wed | Apr 15 | Strings                                   |
+| Fri | Apr 17 | Dates and times                           |
+| Mon | Apr 20 | Advanced visualization                    |
+| Wed | Apr 22 | Performance                               |
+| Fri | Apr 24 | Flex                                      |
+| Mon | Apr 27 | Review                                    |
 | Wed | Apr 29 | Flex                                      |
 | Fri | May 6  | Final presentations, 1-4 PM               |
