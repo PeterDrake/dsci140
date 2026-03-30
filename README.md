@@ -105,7 +105,7 @@ Flex days are days for you to work on assignments in class. They also serve as a
 | Fri | Mar 20 | Flex                                      |
 | Mon | Mar 30 | Importing and exporting data              |
 | Wed | Apr 1  | No class                                  |
-| Fri | Apr 3  | Indexes                                   |
+| Fri | Apr 3  | Indexes and more visualization            |
 | Mon | Apr 6  | Cleaning data                             |
 | Wed | Apr 8  | Basic grouping, joining, and sorting      |
 | Fri | Apr 10 | Festival of Scholars and Artists          |
