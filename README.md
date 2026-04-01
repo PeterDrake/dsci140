@@ -114,7 +114,7 @@ Flex days are days for you to work on assignments in class. They also serve as a
 | Fri | Apr 17 | Dates and times                           |
 | Mon | Apr 20 | Advanced visualization                    |
 | Wed | Apr 22 | Performance                               |
-| Fri | Apr 24 | Flex                                      |
-| Mon | Apr 27 | Review                                    |
+| Fri | Apr 24 | Review                                    |
+| Mon | Apr 27 | Flex                                      |
 | Wed | Apr 29 | Flex                                      |
 | Fri | May 6  | Final presentations, 1-4 PM               |
