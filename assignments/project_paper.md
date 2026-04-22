@@ -2,8 +2,6 @@
 
 This is the fifth part of the team project. You will also present your project to the class during what would be the final exam period.
 
-Only one member of the team needs to turn it in, but the file should include the full names of everyone who worked on it.
-
 **This is a team assignment. When you are done:**
 * ***One* member of your team should submit the files, including the names of everyone who contributed.**
 * **Everyone else should turn in an empty assignment on Google Classroom, including a comment about who turned in the document for your team.**
