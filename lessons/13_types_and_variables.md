@@ -1,5 +1,6 @@
 # Jupyter (Google Colaboratory) Notebooks
 * Interactive notebook
+  * Turn off AI assistance in Settings!
 * Code cells
   * Running them
 * Text cells

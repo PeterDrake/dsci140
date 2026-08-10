@@ -1,4 +1,4 @@
-# Cleaning Data
+# Cleaning Data With Pandas
 * Get `skycrapers.csv` from the book's data files
 * For each of the following tasks:
   * Everyone tries to answer it simultaneously
