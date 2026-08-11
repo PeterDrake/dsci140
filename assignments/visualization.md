@@ -28,7 +28,7 @@ There's nothing to write or hand in about these, but see if you can figure out:
 # Optional Challenge Problem
 Produce a bar chart of the number of games using each the 20 most common mechanics.
 
-This is *very difficult* because all of the mechanics (Dice Rolling, Set Collection, etc.) used by a given game shop up as a list in one cell. I was able to fund a solution using `SPLIT`, `UNIQUE`, `FLATTEN`, and `COUNTIF`. You will need to do some internet research!
+This is *very difficult* because all of the mechanics (Dice Rolling, Set Collection, etc.) used by a given game show up as a list in one cell. I was able to find a solution using `SPLIT`, `UNIQUE`, `FLATTEN`, and `COUNTIF`. You will need to do some internet research!
 
 # What to Hand in
 Hand in a link to your workbook.
