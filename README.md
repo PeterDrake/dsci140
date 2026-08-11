@@ -20,7 +20,7 @@ No readings will be assigned from these, but if you want to go deeper or read a 
 
 ## Links
 [Course Policies](https://github.com/PeterDrake/drakepedia/blob/master/administrivia/policies.md)  
-[Class Notes](lessons)
+[Class Notes](lessons)  
 [In-Class Code](https://drive.google.com/drive/folders/1jsvuFVl4IPIk8vpt1buateAlB9vPYPkF?usp=drive_link)  
 [Data Visualization of the Day](https://docs.google.com/spreadsheets/d/1thvWmwyfuKyE213MohqxxjBvMCEBUWr99b8sJ8-r-ow/edit?usp=sharing)  
 [Pythonorama](https://github.com/alainkaegi/pythonorama/blob/main/README.md)  
