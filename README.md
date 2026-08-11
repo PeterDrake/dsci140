@@ -75,44 +75,44 @@ Flex days are days for you to work on assignments in class. They also serve as a
 
 | Day | Date   | Lesson                                    |
 |-----|--------|-------------------------------------------|
-| Wed | Jan 21 | Extracting knowledge from data            |
-| Fri | Jan 23 | Syllabus, spreadsheets                    |
-| Mon | Jan 26 | Formulas                                  |
-| Wed | Jan 28 | Flex                                      |
-| Fri | Jan 30 | Basic visualization                       |
-| Mon | Feb 2  | Sorting, filtering, and pivot tables      |
-| Wed | Feb 4  | Measurement                               |
-| Fri | Feb 6  | Sampling and bias                         |
-| Mon | Feb 9  | Cleaning data                             |
-| Wed | Feb 11 | Flex                                      |
-| Fri | Feb 13 | Descriptive statistics                    |
-| Mon | Feb 16 | Distributions, correlation, and causality |
-| Wed | Feb 18 | Python syntax                             |
-| Fri | Feb 20 | Data types and variables                  |
-| Mon | Feb 23 | Calling functions and methods             |
-| Wed | Feb 25 | Intermediate visualization                |
-| Fri | Feb 27 | Iteration                                 |
-| Mon | Mar 2  | If/else                                   |
-| Wed | Mar 4  | Flex                                      |
-| Fri | Mar 6  | Dictionaries and sets                     |
-| Mon | Mar 9  | Defining and testing functions            |
-| Wed | Mar 11 | Working with files                        |
-| Fri | Mar 13 | NumPy                                     |
-| Mon | Mar 16 | Series                                    |
-| Wed | Mar 18 | Data frames                               |
-| Fri | Mar 20 | Flex                                      |
-| Mon | Mar 30 | Importing and exporting data              |
-| Wed | Apr 1  | No class                                  |
-| Fri | Apr 3  | Indexes and more visualization            |
-| Mon | Apr 6  | Cleaning data                             |
-| Wed | Apr 8  | Basic grouping, joining, and sorting      |
-| Fri | Apr 10 | Festival of Scholars and Artists          |
-| Mon | Apr 13 | Advanced grouping, joining, and sorting   |
-| Wed | Apr 15 | Strings                                   |
-| Fri | Apr 17 | Dates and times                           |
-| Mon | Apr 20 | Advanced visualization                    |
-| Wed | Apr 22 | Performance                               |
-| Fri | Apr 24 | Review                                    |
-| Mon | Apr 27 | Flex                                      |
-| Wed | Apr 29 | Flex                                      |
-| Fri | May 6  | Final presentations, 1-4 PM               |
+| Mon | Aug 31 | Extracting knowledge from data            |
+| Wed | Sep 2  | Syllabus, spreadsheets                    |
+| Fri | Sep 4  | Formulas                                  |
+| Wed | Sep 9  | Basic visualization                       |
+| Fri | Sep 11 | Flex                                      |
+| Mon | Sep 14 | Sorting, filtering, and pivot tables      |
+| Wed | Sep 16 | Measurement                               |
+| Fri | Sep 18 | Sampling and bias                         |
+| Mon | Sep 21 | Cleaning data                             |
+| Wed | Sep 23 | Flex                                      |
+| Fri | Sep 25 | Descriptive statistics                    |
+| Mon | Sep 28 | Distributions, correlation, and causality |
+| Wed | Sep 30 | From spreadsheets to Python               |
+| Fri | Oct 2  | Python syntax I                           |
+| Mon | Oct 5  | Data types and variables                  |
+| Wed | Oct 7  | Calling functions and methods             |
+| Mon | Oct 12 | Intermediate visualization                |
+| Wed | Oct 14 | Visualization with Seaborn                |
+| Fri | Oct 16 | Iteration                                 |
+| Mon | Oct 19 | Python syntax II                          |
+| Wed | Oct 21 | Flex                                      |
+| Fri | Oct 23 | If/else                                   |
+| Mon | Oct 26 | Dictionaries and sets                     |
+| Wed | Oct 28 | Defining and testing functions            |
+| Fri | Oct 30 | Working with files                        |
+| Mon | Nov 2  | Flex                                      |
+| Wed | Nov 4  | NumPy                                     |
+| Fri | Nov 6  | Series                                    |
+| Mon | Nov 9  | Data frames                               |
+| Wed | Nov 11 | Importing and exporting data              |
+| Fri | Nov 13 | Flex                                      |
+| Mon | Nov 16 | Indexes                                   |
+| Wed | Nov 18 | Cleaning data with pandas                 |
+| Fri | Nov 20 | Flex                                      |
+| Mon | Nov 23 | Grouping and joins                        |
+| Mon | Nov 30 | Strings                                   |
+| Wed | Dec 2  | Dates and times                           |
+| Fri | Dec 4  | Review                                    |
+| Mon | Dec 7  | Flex                                      |
+| Wed | Dec 9  | Flex                                      |
+| Thu | Dec 17 | Final presentations, 8:30 - 11:30 AM      |
