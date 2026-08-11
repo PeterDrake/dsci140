@@ -1,3 +1,5 @@
+# Discuss Defense Against Dishonest Charts
+
 # Dictionaries
 * A dictionary associates *keys* with *values*
 * Example: names and ages

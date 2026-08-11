@@ -1,30 +1,28 @@
 # DSCI 140 Introduction to Data Science
-Spring 2026
+Fall 2026
 
 **Instructor**: [Peter Drake](https://sites.google.com/a/lclark.edu/drake/home)  
-**Teaching assistant**: [Emma Hitchens](mailto:emmah@lclark.edu)  
-**Meetings**: 11:30 AM - 12:30 PM MWF, Olin 305  
-**Final presentations**: 1-4 PM, Wednesday, May 6
+**Teaching assistant**: [Anamika Prasad](mailto:aprasad@lclark.edu)  
+**Meetings**: 9:10 - 10:10 AM MWF, Olin 305  
+**Final presentations**: 8:30 - 11:30 AM, Thursday, December 17
 
 ## Getting Help
-* Write to the [course email list](mailto:26sp-dsci-140-02@lclark.edu) 24/7
-* Come to the TA's office hours, 11:30 AM - 1:00 PM TTh, Data Science Center
+* Write to the [course email list](mailto:26fa-dsci-140-02@lclark.edu) 24/7
+* Come to the TA's office hours, TBA
 * [Make an appointment to see me](https://calendar.app.google/LftGtzJnJeX8r1fw5) or drop by my office
-
-## Course Text
-Lerner, [*Pandas Workout*](https://www.manning.com/books/pandas-workout) (with [associated GitHub repository](https://github.com/reuven/pandas-workout))
 
 ### Suggested Texts
 No readings will be assigned from these, but if you want to go deeper or read a different take on something, they're good sources.
+* Lerner, [*Pandas Workout*](https://www.manning.com/books/pandas-workout)
 * Downey, [*Think Python: How to Think LIke a Computer Scientist, Third Edition*](https://allendowney.github.io/ThinkPython/index.html)
 * Lubanovic, [*Introducing Python: Modern Computing in Simple Packages, Third Edition*](https://www.oreilly.com/library/view/introducing-python-3rd/9781098174392/)
 * VanderPlas, [*Python Data Science Handbook, Second Edition*](https://www.oreilly.com/library/view/python-data-science/9781098121211/)
 
 ## Links
 [Course Policies](https://github.com/PeterDrake/drakepedia/blob/master/administrivia/policies.md)  
-[Class Notes](lessons)  
-[In-Class Code](https://drive.google.com/drive/folders/1-Sac14kQ1iZs5reN-LFzi9GiItN7Ip1i?usp=drive_link)  
-[Data Visualization of the Day](https://docs.google.com/spreadsheets/d/1p2-fpUBZIibmX1B2oVjbhNphAbS8yN8DgkkGeKJ2riU/edit?usp=sharing)  
+[Class Notes](lessons)
+[In-Class Code](https://drive.google.com/drive/folders/1jsvuFVl4IPIk8vpt1buateAlB9vPYPkF?usp=drive_link)  
+[Data Visualization of the Day](https://docs.google.com/spreadsheets/d/1thvWmwyfuKyE213MohqxxjBvMCEBUWr99b8sJ8-r-ow/edit?usp=sharing)  
 [Pythonorama](https://github.com/alainkaegi/pythonorama/blob/main/README.md)  
 
 ## Overview
@@ -63,7 +61,7 @@ By the end of this course, you should be able to:
 There are three major sections to the course:
 * Working with data using a spreadsheet (Google Sheets)
 * Introduction to programming with Python
-* Working with data using Python and libraries such as NumPy, Matplotlib, and Pandas
+* Working with data using Python and libraries such as NumPy, Seaborn, and Pandas
 
 The major components of the course are:
 * Individual assignments that you are meant to complete on your own. You are welcome to help each other with *concepts*, but any code, writing, math, etc. should be your own.
