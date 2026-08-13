@@ -1,3 +1,7 @@
+# Data Diary part 2
+* Guest speaker: Science & Data Services Librarian Parvaneh Abbaspour
+* [Slides](https://docs.google.com/presentation/d/1aDde2EIMDaIBg_-SaCdGm40CtSc23j0BrFyELDn35rc/edit?usp=drive_link)
+
 # Sampling
 * 1936 Presidential poll by The Literary Digest
   * Incorrectly predicted that Alfred Landon would defeat incumbent Franklin Roosevelt in a landslide.
