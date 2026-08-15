@@ -71,7 +71,7 @@ There are no exams. In place of a final exam, teams will present their final pro
 
 ## Schedule
 
-Flex days are days for you to work on assignments in class. They also serve as a reserve in case of getting behind, instructor illness, inclement weather, etc.
+Flex days are days for you to work on assignments in class. They also serve as a reserve in case of getting behind, instructor illness, inclement weather, etc. Note the link to class notes above.
 
 | Day | Date   | Lesson                                    |
 |-----|--------|-------------------------------------------|
