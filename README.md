@@ -8,7 +8,8 @@ Fall 2026
 
 ## Getting Help
 * Write to the [course email list](mailto:26fa-dsci-140-02@lclark.edu) 24/7
-* Come to the TA's office hours, TBA
+* Come to the [Data Cafe](https://college.lclark.edu/programs/data-science/student-resources/data-cafe/), 4-5 PM Sunday through Friday and 8-9 PM Sunday throught Thursday
+  * Anamika will be there Monday 8-9 and Tuesday, Thursday, and Friday 4-5 PM. She's a particularly good choice for you because she knows Python; some other Data Cafe staff may only now R.
 * [Make an appointment to see me](https://calendar.app.google/LftGtzJnJeX8r1fw5) or drop by my office
 
 ### Suggested Texts
