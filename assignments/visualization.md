@@ -6,7 +6,7 @@ This assignment will give you practice creating charts in a spreadsheet. It deal
 # Importing the Data
 Import [`bgg_dataset.csv` from Kaggle](https://www.kaggle.com/datasets/andrewmvd/board-games). You will need to make an account (or connect with your LC Google account) to download the data.
 
-Two of the columns, `Rating Average` and `Complexity`, are real numbers formatted with a comma in place of the decimal point (which is standard in some countries). To turn them into numbers, select a column and then use find and replace.
+Two of the columns, `Rating Average` and `Complexity`, are real numbers formatted with a comma in place of the decimal point (which is standard in some countries). To turn them into numbers, select a column and then use find and replace to turn the commas into decimal points.
 
 # Charts
 Create the following charts, each in a new sheet:
