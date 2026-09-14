@@ -79,13 +79,13 @@ Flex days are days for you to work on assignments in class. They also serve as a
 | Mon | Aug 31 | Extracting knowledge from data            |
 | Wed | Sep 2  | Syllabus, spreadsheets                    |
 | Fri | Sep 4  | Formulas                                  |
-| Wed | Sep 9  | Basic visualization                       |
+| Wed | Sep 9  | Flex                                      |
 | Fri | Sep 11 | Flex                                      |
-| Mon | Sep 14 | Sorting, filtering, and pivot tables      |
+| Mon | Sep 14 | Basic visualization                       |
 | Wed | Sep 16 | Measurement                               |
 | Fri | Sep 18 | Sampling and bias                         |
-| Mon | Sep 21 | Cleaning data                             |
-| Wed | Sep 23 | Flex                                      |
+| Mon | Sep 21 | Sorting, filtering, and pivot tables      |
+| Wed | Sep 23 | Cleaning data                             |
 | Fri | Sep 25 | Descriptive statistics                    |
 | Mon | Sep 28 | Distributions, correlation, and causality |
 | Wed | Sep 30 | From spreadsheets to Python               |
