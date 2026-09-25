@@ -26,6 +26,8 @@ Remove all rows with invalid email addresses. A valid address must contain an `@
 # What to Hand In
 Hand in a link to your notebook.
 
+As a comment with your handin in Google Classroom, also tell me the secret number we left as a comment on the Formulas assignment. (This to verify that you are seeing the assignment feedback.)
+
 # Credits / Notes
 The data file came from https://education.launchcode.org/data-analysis-curriculum/cleaning-spreadsheets/exercises/index.html.
 
