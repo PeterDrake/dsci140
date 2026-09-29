@@ -28,7 +28,6 @@ You'll also need to find the column names and paste them into a new row above th
 2. Plot a histogram of `Length`.
 3. Create a scatter plot of `Height` (vertical axis) vs `Length`.
 4. Compute (in another labeled cell) the correlation between `Length` and `Height`.
-5. In yet another labeled cell, list your secret number (which was given as feedback in the Formulas assignment).
 
 # Optional Challenge Problem
 
