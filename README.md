@@ -93,20 +93,20 @@ Flex days are days for you to work on assignments in class. They also serve as a
 | Fri | Oct 2  | Python syntax I                           |
 | Mon | Oct 5  | Data types and variables                  |
 | Wed | Oct 7  | Calling functions and methods             |
-| Mon | Oct 12 | Intermediate visualization                |
-| Wed | Oct 14 | Visualization with Seaborn                |
-| Fri | Oct 16 | Iteration                                 |
-| Mon | Oct 19 | Python syntax II                          |
-| Wed | Oct 21 | Flex                                      |
-| Fri | Oct 23 | If/else                                   |
-| Mon | Oct 26 | Dictionaries and sets                     |
-| Wed | Oct 28 | Defining and testing functions            |
-| Fri | Oct 30 | Working with files                        |
-| Mon | Nov 2  | Flex                                      |
-| Wed | Nov 4  | NumPy                                     |
-| Fri | Nov 6  | Series                                    |
-| Mon | Nov 9  | Data frames                               |
-| Wed | Nov 11 | Importing and exporting data              |
+| Mon | Oct 12 | Iteration                                 |
+| Wed | Oct 14 | Python syntax II                |
+| Fri | Oct 16 | Flex                                 |
+| Mon | Oct 19 | Intermediate visualization                |
+| Wed | Oct 21 | If/else                                      |
+| Fri | Oct 23 | Dictionaries and sets                                   |
+| Mon | Oct 26 | Defining and testing functions                     |
+| Wed | Oct 28 | Working with files            |
+| Fri | Oct 30 | Flex                        |
+| Mon | Nov 2  | NumPy                                      |
+| Wed | Nov 4  | Series                                     |
+| Fri | Nov 6  | Data frames                                    |
+| Mon | Nov 9  | Importing and exporting data                               |
+| Wed | Nov 11 | Visualization with Seaborn              |
 | Fri | Nov 13 | Flex                                      |
 | Mon | Nov 16 | Indexes                                   |
 | Wed | Nov 18 | Cleaning data with pandas                 |
