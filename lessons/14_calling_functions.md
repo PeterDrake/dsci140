@@ -1,27 +1,29 @@
 # Calling Functions
 * `function(argument, ...)` passes the arguments to the function and returns a value
 * Some built-in functions
-  * `abs`
-  * `all`
-  * `any`
-  * `help`
-    * Prints something as a side effect
-    * Return value is `None`, which isn't printed
-      * Experiment: What is the type of `None`?
-  * `input`
-    * Asks for user input
-    * Optional prompt argument
-    * Returned value is a str
-  * `len`
-  * `max`
-  * `min`
-  * `print`
-    * Like `help`, prints as a side effect and returns `None`
-  * `round`
-  * `sorted`
-  * `sum`
+  * Have students experiment with these then explain what they do
+    * `abs` on a number
+    * `all` on a list of bools or other values
+    * `any` on a list of bools or other values
+    * `len` on a string or list
+    * `max` on one or more values or a list of values
+    * `min` on one or more values or a list of values
+    * `round` on a number
+    * `sorted` on a list or string
+    * `sum` on a list of numbers
   * `type`
   * Type conversion functions like `int`, `float`, `str`, `bool`, `list`
+  * Functions with side effects
+    * `help`
+      * Prints something as a side effect
+      * Return value is `None`, which isn't printed
+        * Experiment: What is the type of `None`?
+    * `input`
+      * Asks for user input
+      * Optional prompt argument
+      * Returned value is a str
+    * `print`
+      * Like `help`, prints as a side effect and returns `None`
   * There is a [complete list](https://docs.python.org/3/library/functions.html), but a few of them are obscure
 
 # Calling Methods

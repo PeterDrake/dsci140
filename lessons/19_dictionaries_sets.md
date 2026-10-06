@@ -36,4 +36,5 @@
 * `len` works and sets are iterable
 * Challenge: Create a set of multiples of 2 and a set of multiples of 3, then combine them to create a set of multiples of 6
 * Challenge: Given a list with duplicates, use type conversion to create a list with the duplicates removed
+  * Note: This *might* mess with the order of elements, but tends not to for lists of small integers
 * Experiment: What types of objects can be members of sets? What types can be keys in dictionaries? What types can be values in dictionaries?

@@ -13,9 +13,9 @@
       line = file.readline()
       print(line)
   ```
-  * Better yet, `print(line.strip())` to remove whitespace, including end-of-line artifacts
-* Alternatively, just call `file.readlines()` to get a list of all the lines
-  * This may not work with extremely large files, as it has to store the whole file in memory
+  * `print(line.strip())` skips whitespace, including end-of-line artifacts
+  * Alternatively, just call `file.readlines()` to get a list of all the lines
+    * This may not work with extremely large files, as it has to store the whole file in memory
 * Challenge: Print the first paragraph of the novel
   * You get to know that the first line starts with `'You will rejoice'`.
   * You know you're at the end of the paragraph when you find a blank line.
