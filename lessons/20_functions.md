@@ -1,3 +1,5 @@
+# Discuss Defense Against Dishonest Charts
+
 # Defining Functions
 * In addition to naming data, you can name computations!
 * General form
