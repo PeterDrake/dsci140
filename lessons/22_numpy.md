@@ -1,5 +1,5 @@
 # NumPy
-* Prounounced "num py", *not* rhyming with "dumpy"
+* Pronounced "num py", *not* rhyming with "dumpy"
 * Python package for dealing with arrays of numbers
 * Example
   * `import numpy as np`
@@ -36,21 +36,3 @@
   * `a[a > 3]`
     * Note the reduction in dimensions
   * `a[(a > 3) & (a < 8)]`
-
-# A Brief Peek at Matplotlib
-*
-  ```python
-  import matplotlib.pyplot as plt
-    
-  x = np.linspace(1, 10, 10)
-  y = x ** 2
-  plt.plot(x, y)
-  ```
-* Nice to add `None` on the last line
-* Second data set?
-  ```python
-  y2 = x * 2
-  plt.plot(x, y2)
-  ```
-* Experiment: `scatter` instead of `plot`
-* Challenge: Using the cheat sheet and web searching, add title and legend
