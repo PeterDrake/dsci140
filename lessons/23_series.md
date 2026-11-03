@@ -12,6 +12,7 @@
   * `import pandas as pd`
   * `g = np.random.default_rng(0)`
     * The 0 is a (pseudo)random number generator seed, so we all get the same numbers
+    * [Epic tale of suspicious data](https://pubpeer.com/publications/EFB5C468100FD85BE8CC935CC960F7)
   * `s = pd.Series(g.integers(70, 101, 10))`
 * Indexing on months
   * `months = 'Sep Oct Nov Dec Jan Feb Mar Apr May Jun'.split()`
