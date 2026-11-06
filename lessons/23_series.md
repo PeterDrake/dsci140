@@ -35,7 +35,7 @@
 * Bonus challenges
   * In what month did the student get their highest test score?
     * Plan A: Use the `sort_values` method
-    * Plan B: Create a boolean mask that finds out the maximum score, then use that to find an element
+    * Plan B: Create a boolean mask that finds the maximum score, then use that to find an element
       * Because there might be several, take the first one
   * What were the student's five highest scores?
     * Sort and slice!
