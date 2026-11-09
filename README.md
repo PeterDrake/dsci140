@@ -106,7 +106,7 @@ Flex days are days for you to work on assignments in class. They also serve as a
 | Wed | Nov 4  | Series                                     |
 | Fri | Nov 6  | Data frames                                    |
 | Mon | Nov 9  | Importing and exporting data                               |
-| Wed | Nov 11 | Visualization with Seaborn              |
+| Wed | Nov 11 | Visualization with pandas              |
 | Fri | Nov 13 | Flex                                      |
 | Mon | Nov 16 | Indexes                                   |
 | Wed | Nov 18 | Cleaning data with pandas                 |
