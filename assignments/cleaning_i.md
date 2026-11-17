@@ -24,7 +24,7 @@ Get [the .csv file](https://education.launchcode.org/data-analysis-curriculum/cl
 Remove all rows with invalid email addresses. A valid address must contain an `@`, but not start with one. Consider using `SEARCH` and `IFERROR`.
 
 # What to Hand In
-Hand in a link to your notebook.
+Hand in your notebook.
 
 As a comment with your handin in Google Classroom, also tell me the secret number we left as a comment on the Formulas assignment. (This to verify that you are seeing the assignment feedback.)
 
