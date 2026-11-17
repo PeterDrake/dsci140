@@ -1,5 +1,5 @@
 # Overview
-This assignment will give you practice cleaning a real data about passengers on the doomed ocean liner RMS *Titanic*.
+This assignment will give you practice cleaning real data about passengers on the doomed ocean liner RMS *Titanic*.
 
 **This is an individual assignment. You are meant to write the code on your own. You are welcome to discuss *ideas* with other students (including on the class email list), but don't look at their code or show them yours.**
 
